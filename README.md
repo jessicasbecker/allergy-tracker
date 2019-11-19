@@ -8,3 +8,12 @@ Features of this application:
 - Update information
 - Delete information
 - Search Field
+
+Technologies:
+- HTTP Request
+- PHPMyAdmin
+- Java or Python (still deciding at the moment)
+- HTML
+- CSS
+
+
