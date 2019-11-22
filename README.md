@@ -12,11 +12,16 @@ Features of this application:
 Technologies:
 - HTTP Request
 - PHPMyAdmin
-- Java or Python (still deciding at the moment)
+- Python
 - HTML
 - CSS
 
-![Mywireframe](https://github.com/jessicasbecker/allergy-tracker/blob/master/allergytrackerwireframe.jpg)
-
 Trello Board: 
 https://trello.com/b/JF1dLkDZ/next
+
+![Allergy Tracker Homepage](https://github.com/jessicasbecker/allergy-tracker/blob/master/allergytrackerhomepage.jpg)
+
+![Allergy Tracker Registration Page](https://github.com/jessicasbecker/allergy-tracker/blob/master/allergyregisterpage.jpg)
+
+![Allergy Tracker Profile Page](https://github.com/jessicasbecker/allergy-tracker/blob/master/allergyprofile.jpg)
+
